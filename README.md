@@ -27,6 +27,4 @@ Then, create a virtual environment and install dependencies using `UV`:
 uv sync
 ```
 
-&nbsp;
-
 Happy coding 😊
